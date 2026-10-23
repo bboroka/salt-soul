@@ -1,0 +1,88 @@
+{
+  "last_reviewed": "2026-10-22",
+  "owner": "Szálláshely üzemeltetője — név megerősítendő",
+  "items": [
+    {
+      "module": "contact",
+      "responsible": "Üzemeltető — kijelölendő",
+      "last_checked": "2026-10-22",
+      "next_check": "2026-11-22",
+      "expires": null,
+      "status": "approved"
+    },
+    {
+      "module": "arrival",
+      "responsible": "Üzemeltető — kijelölendő",
+      "last_checked": "2026-10-22",
+      "next_check": "2026-11-22",
+      "expires": null,
+      "status": "approved"
+    },
+    {
+      "module": "cleaning",
+      "responsible": "Üzemeltető — kijelölendő",
+      "last_checked": "2026-10-22",
+      "next_check": "2026-11-22",
+      "expires": null,
+      "status": "approved",
+      "note": "Daily cleaning starts at 10:00, confirmed by operator."
+    },
+    {
+      "module": "parking",
+      "responsible": "Üzemeltető — kijelölendő",
+      "last_checked": "2026-10-22",
+      "next_check": "2026-11-22",
+      "expires": null,
+      "status": "approved_location_only",
+      "note": "Google Maps link confirmed by operator; individual space allocation and festival access remain conditional."
+    },
+    {
+      "module": "breakfast",
+      "responsible": "Üzemeltető — kijelölendő",
+      "last_checked": null,
+      "next_check": "2026-11-22",
+      "expires": null,
+      "status": "needs_verification"
+    },
+    {
+      "module": "spa",
+      "responsible": "Üzemeltető — kijelölendő",
+      "last_checked": null,
+      "next_check": "2026-11-22",
+      "expires": null,
+      "status": "needs_verification"
+    },
+    {
+      "module": "attractions",
+      "responsible": "Üzemeltető — kijelölendő",
+      "last_checked": null,
+      "next_check": "2026-11-22",
+      "expires": null,
+      "status": "needs_verification"
+    },
+    {
+      "module": "house_rules",
+      "responsible": "Üzemeltető — kijelölendő",
+      "last_checked": null,
+      "next_check": "2026-11-22",
+      "expires": null,
+      "status": "needs_verification"
+    },
+    {
+      "module": "emergency",
+      "responsible": "Üzemeltető — kijelölendő",
+      "last_checked": null,
+      "next_check": "2026-11-22",
+      "expires": null,
+      "status": "needs_verification"
+    },
+    {
+      "module": "seasonal_road_closures",
+      "responsible": "Üzemeltető — kijelölendő",
+      "last_checked": null,
+      "next_check": "2026-11-22",
+      "expires": null,
+      "status": "needs_verification"
+    }
+  ]
+}

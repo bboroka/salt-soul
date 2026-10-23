@@ -1,0 +1,61 @@
+{
+  "brand": {
+    "name": "Salt & Soul Boutique Villa",
+    "slogan": "Sóval és Lélekkel",
+    "website": "https://www.saltandsoul.ro"
+  },
+  "contact": {
+    "phone": "0749250933",
+    "whatsapp": "40749250933",
+    "email": "saltandsoul.sovata@gmail.com"
+  },
+  "arrival": {
+    "check_in": "14:00–24:00",
+    "check_out": "10:00",
+    "self_check_in": true,
+    "door_code_public": false
+  },
+  "cleaning": {
+    "daily": true,
+    "linen_change_days": 3,
+    "towel_request": "whatsapp",
+    "linen_request": "whatsapp",
+    "starts_at": "10:00"
+  },
+  "wifi": {
+    "ssid": "Salt&Soul",
+    "password": "salt2025"
+  },
+  "rooms": [
+    "Harmony",
+    "Hope",
+    "Joy",
+    "Flow",
+    "Energy",
+    "Bliss",
+    "Silence",
+    "Rise"
+  ],
+  "breakfast": {
+    "venue": "Restaurant Ciuperca Mică",
+    "hours": "09:00–12:00",
+    "included": "booking-dependent",
+    "dietary_requests": "confirm-with-restaurant"
+  },
+  "spa": {
+    "included": "booking-dependent",
+    "hotel_pacsirta": "voucher in room",
+    "wellness_praid": "check availability"
+  },
+  "privacy": {
+    "publish_door_code": false,
+    "guest_data_in_public_url": false
+  },
+  "last_updated": "2026-10-22",
+  "parking": {
+    "google_maps_url": "https://maps.app.goo.gl/nrSiqXES8SHTe38C9",
+    "parking_map": "parking.jpg",
+    "assigned_space": "sent privately",
+    "festival_road_closures": "contact property for current access"
+  }
+}
